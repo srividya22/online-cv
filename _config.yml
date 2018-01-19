@@ -13,7 +13,7 @@ baseurl: 'online-cv' #change it according to your repository name
 #Profile information
 name: Srividya Ramakrishnan
 tagline: Senior Research Analyst
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I am a curious and passionate software professional willing to use diverse skills to strongly impact
 challenges in programming and data analysis.'
 
