@@ -33,13 +33,13 @@
             4) Conduct Unit Testing of the different modules involved in the product.
             5) Provided support for the Integration on the banking Software.
             6) Fix the bugs reported on issue tracking system.
-            7) Provided training to the group of freshmen in the team about the project structure.
+            7) Provided training to the group of freshmen in the team about the project structure."
 
--Tools Developed
+-tools developed:
 
-•	MIGMASTER: 
+"•	MIGMASTER: 
 This Shell script provides an interface to the user to run the migration scripts for the specific solutions in Finacle application.
 
 •	CHECK DB:
-This is a JAVA application which interacts with the ORACLE/DB2 database to ensure all the DB objects are created after Finacle installation.
+This is a JAVA application which interacts with the ORACLE/DB2 database to ensure all the DB objects are created after Finacle installation."
 <br> <br>
