@@ -3,23 +3,33 @@
   time: Sep 2016 - Present
   company: Johns Hopkins University, MD, USA.
   details: "1. Assembling organelle genomes.
-            2) Benkmarking RNA-Seq in Plants"
+  | 2) Benkmarking RNA-Seq in Plants"
   <br> <br>
 - experience:
   role: Computational Science Analyst
   time: Aug 2013 - Aug 2016
   company: Cold Spring Harbor Laboratory, NY, USA.
-  details: "1. Software Developer at The Department of Energy Systems Biology Knowledgebase (KBase). http://kbase.us/ 2) Actively design, develop end to end software modules to support data analysis and visualization of big data in Genomics."
+  details: "1. Software Developer at The Department of Energy Systems Biology Knowledgebase (KBase). http://kbase.us/ 
+  | 2) Actively design, develop end to end software modules to support data analysis and visualization of big data in Genomics."
   <br> <br>
 - experience:
   role: Student Technical Assistant
   time: Nov 2011 - May 2013
   company: New Jersey Institute of Technology, NJ, USA
-  details: "1) Designed and developed a webpage using PHP for the university listing the available softwares on the machine using a Shell script called from a php file (gen_Soft_List.ksh, Linux_software.php) 2) Developed a perl utility parseExcel2txt that translates Microsoft excel sheet to text file.3) Developed automation scripts using SHELL, Python, Perl to customize Linux Desktop Environments.4) Perform Software tests and track issues (TRAC).5) Created test environments for Tomcat7, Java Server Pages (JSP), Java servlets , Java Sever Faces(JSF) 6) Document the installation process and user guides of the software installed."
+  details: "1) Designed and developed a webpage using PHP for the university listing the available softwares on the machine using a Shell script called from a php file (gen_Soft_List.ksh, Linux_software.php)
+  | 2) Developed a perl utility parseExcel2txt that translates Microsoft excel sheet to text file.
+  | 3) Developed automation scripts using SHELL, Python, Perl to customize Linux Desktop Environments.
+  | 4) Perform Software tests and track issues (TRAC).5) Created test environments for Tomcat7, Java Server Pages (JSP), Java servlets , Java Sever Faces(JSF) 6) Document the installation process and user guides of the software installed."
   <br> <br>
 - experience:
   role: Systems Engineer
   time: Sep 2008 - July 2011
   company: Infosys Technologies Limited, Mahindra City, India
-  details: "1) Program using C/C++ to migrate the banking Software.2) Written automation scripts using SHELL,Perl, Python. 3) Created the Unit test plans for the unit tests conducted for different modules. 4) Conduct Unit Testing of the different modules involved in the product. 5) Provided support for the Integration on the banking Software. 6) Fix the bugs reported on issue tracking system. 7) Provided training to the group of freshmen in the team about the project structure."
+  details: "1) Program using C/C++ to migrate the banking Software.
+  | 2) Written automation scripts using SHELL,Perl, Python. 
+  | 3) Created the Unit test plans for the unit tests conducted for different modules. 
+  | 4) Conduct Unit Testing of the different modules involved in the product. 
+  | 5) Provided support for the Integration on the banking Software. 
+  | 6) Fix the bugs reported on issue tracking system. 
+  | 7) Provided training to the group of freshmen in the team about the project structure."
   <br> <br>
