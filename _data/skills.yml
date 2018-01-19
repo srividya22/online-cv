@@ -1,18 +1,21 @@
 - skill:
-  name: Python & Django
+  name: Shell Scripting
   level: 98%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Python
+  level: 95%
+ - skill:
+  name: R
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: CUDA C
+  level: 90%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Perl
+  level: 82%
+- skill: 
+  name: Java
+  level: 70%
+- skill:
+  name: C/C++
+  level: 70%
