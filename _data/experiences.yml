@@ -1,28 +1,45 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  role: Senior Research Analyst
+  time: Sep 2016 - Present
+  company: Johns Hopkins University, MD, USA
+  details: "1) Assembling organelle genomes.
+            2) Benkmarking RNA-Seq in Plants"
   <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Computational Science Analyst
+  time: Aug 2013 - Aug 2016
+  company: Cold Spring Harbor Laboratory, NY, USA
+  details: "1) Software Developer at The Department of Energy Systems Biology Knowledgebase (KBase). http://kbase.us/
+            2) Actively design, develop end to end software modules to support data analysis and visualization of big data in Genomics."
+   <br> <br>
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Student Technical Assistant
+  time: Nov 2011 - May 2013
+  company: New Jersey Institute of Technology, NJ, USA
+  details: "1) Designed and developed a webpage using PHP for the university listing the available softwares on the machine using a Shell script called from a php file (gen_Soft_List.ksh, Linux_software.php) 
+            2) Developed a perl utility parseExcel2txt that translates Microsoft excel sheet to text file.
+            3) Developed automation scripts using SHELL, Python, Perl to customize Linux Desktop Environments.
+            4) Perform Software tests and track issues (TRAC).
+            5) Created test environments for Tomcat7, Java Server Pages (JSP), Java servlets , Java Sever Faces(JSF)
+            6) Document the installation process and user guides of the software installed."
+   <br> <br>
+- experience:
+  role: Systems Engineer
+  time: Sep 2008 - July 2011
+  company: Infosys Technologies Limited, Mahindra City, India
+  details: "1) Program using C/C++ to migrate the banking Software.
+            2) Written automation scripts using SHELL,Perl, Python.
+            3) Created the Unit test plans for the unit tests conducted for different modules.
+            4) Conduct Unit Testing of the different modules involved in the product.
+            5) Provided support for the Integration on the banking Software.
+            6) Fix the bugs reported on issue tracking system.
+            7) Provided training to the group of freshmen in the team about the project structure.
+
+-Tools Developed
+
+•	MIGMASTER: 
+This Shell script provides an interface to the user to run the migration scripts for the specific solutions in Finacle application.
+
+•	CHECK DB:
+This is a JAVA application which interacts with the ORACLE/DB2 database to ensure all the DB objects are created after Finacle installation.
+<br> <br>
