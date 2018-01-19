@@ -38,4 +38,4 @@ compress_html: # - http://jch.penibelst.de/
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
