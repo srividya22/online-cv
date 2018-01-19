@@ -11,7 +11,7 @@
   company: Cold Spring Harbor Laboratory, NY, USA
   details: "1) Software Developer at The Department of Energy Systems Biology Knowledgebase (KBase). http://kbase.us/
             2) Actively design, develop end to end software modules to support data analysis and visualization of big data in Genomics."
-   <br> <br>
+  <br> <br>
 - experience:
   role: Student Technical Assistant
   time: Nov 2011 - May 2013
@@ -22,7 +22,7 @@
             4) Perform Software tests and track issues (TRAC).
             5) Created test environments for Tomcat7, Java Server Pages (JSP), Java servlets , Java Sever Faces(JSF)
             6) Document the installation process and user guides of the software installed."
-   <br> <br>
+  <br> <br>
 - experience:
   role: Systems Engineer
   time: Sep 2008 - July 2011
@@ -34,4 +34,4 @@
             5) Provided support for the Integration on the banking Software.
             6) Fix the bugs reported on issue tracking system.
             7) Provided training to the group of freshmen in the team about the project structure."
-<br> <br>
+  <br> <br>
