@@ -1,9 +1,12 @@
 - language:
   idiom: English
+  level: Professional
+- language:
+  idiom: Hindi
+  level: Professional
+- language:
+  idiom: Tamil
   level: Native
 - language:
-  idiom: French
-  level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+  idiom: Telugu
+  level: Speaking only
