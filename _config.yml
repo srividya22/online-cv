@@ -11,21 +11,18 @@ baseurl: 'online-cv' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Srividya Ramakrishnan
+tagline: Senior Research Analyst
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I am a curious and passionate software professional willing to use diverse skills to strongly impact
+challenges in programming and data analysis.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: srividya.ramki@gmail.com
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+linkedin: srividya-ramakrishnan-ba81734b
+github: srividya22
+twitter: '@Srividy73268886'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
